@@ -5,7 +5,7 @@ Vue enthusiast, TypeScript fan, Laravel lover
 
 * 🌍  I'm based in Naples
 * ✉️  You can contact me at [lscorionjs@gmail.com](mailto:lscorionjs@gmail.com)
-* 🧠  I'm learning Rust
+* 🧠  I'm learning Nuxt & Rust
 * ⚡  I ❤️programming
 
 ### Skills
