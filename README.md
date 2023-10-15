@@ -1,4 +1,4 @@
-Hi 👋 My name is Ciro
+Hi 👋
 =====================
 
 Vue enthusiast, TypeScript fan, Laravel lover
@@ -6,7 +6,7 @@ Vue enthusiast, TypeScript fan, Laravel lover
 * 🌍  I'm based in Naples
 * ✉️  You can contact me at [lscorionjs@gmail.com](mailto:lscorionjs@gmail.com)
 * 🧠  I'm learning Nuxt & Rust
-* ⚡  I ❤️programming
+* ⚡  I ❤️ programming
 
 ### Skills
 
